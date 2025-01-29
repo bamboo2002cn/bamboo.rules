@@ -66,6 +66,9 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
+
+
+
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -144,6 +147,11 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,vps2000.us.kg
+DOMAIN-SUFFIX,jtzwq.us.kg
+DOMAIN-SUFFIX,bamboo2002cn.top
+DOMAIN-SUFFIX,bamboo2002cn.us.kg
+DOMAIN-SUFFIX,jtzwq.cloudns.org
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com
