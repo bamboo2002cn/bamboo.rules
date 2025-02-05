@@ -9,8 +9,8 @@ DOMAIN-KEYWORD,1e100
 # emotn
 DOMAIN-SUFFIX,keeflys.com
 
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,nodeseek
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
